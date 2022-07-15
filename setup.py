@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(name='z.entry',  # 包名
-      version='1.0.1',  # 版本号
+      version='1.0.2',  # 版本号
       description='A decorator for autorun main func',
       long_description=long_description,
       long_description_content_type="text/markdown",
